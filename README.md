@@ -1,4 +1,4 @@
-# :syringe: Sistema Integrado de Distribuição de Medicamentos :pill:
+# :syringe: Sistema Integrado de Distribuição de Medicamentos
 
 Projeto desenvolvido para a disciplina de WEB II por,
 
